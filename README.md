@@ -29,3 +29,5 @@ Projeto realizado utilizando como linguagem padrão Java 17, como framework foi 
 Banco de Dados: PostgreSQL
 
 JDK:  Java 17
+
+NECESSÁRIO MEXER NO ARQUIVO **APPLICATION.PROPERTIES**
