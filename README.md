@@ -20,4 +20,12 @@ A aplicação pode ser construída utilizando qualquer linguagem, banco de dados
 - README.md contendo informações básicas do projeto e como executá-lo;
 - API Blueprint ou Swagger da aplicação;
 
-Instruções:
+# Instruções:
+
+Projeto realizado utilizando como linguagem padrão Java 17, como framework foi utilizado Spring Boot 3.2.1 e como DB o PostgreSQL 4.0
+
+## Necessário instalar: 
+
+Banco de Dados: PostgreSQL
+
+JDK:  Java 17
