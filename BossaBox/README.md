@@ -1,4 +1,4 @@
-# BossaBox  -  Teste Backend
+# BossaBox - Teste Backend
 
 Sua tarefa é constuir uma API e banco de dados para a aplicação VUTTR(Very Useful Tools to Remember). A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags.
 
@@ -7,6 +7,7 @@ A aplicação pode ser construída utilizando qualquer linguagem, banco de dados
 # O que será avalidado:
 
 ## Queremos avaliar sua capacidade de desenvolver e documentar um back-end para uma aplicação. Serão avaliados:
+
 - Código bem escrito e limpo;
 - Quais ferramentas foram usadas, como e por quê, além do seu conhecimento das mesmas;
 - Seu conhecimento em banco de dados, requisições HTTP, APIs REST, etc;
@@ -19,7 +20,6 @@ A aplicação pode ser construída utilizando qualquer linguagem, banco de dados
 - README.md contendo informações básicas do projeto e como executá-lo;
 - API Blueprint ou Swagger da aplicação;
 
-
 # Instruções:
 
 Projeto realizado utilizando como linguagem padrão Java 17, como framework foi utilizado Spring Boot 3.2.1 e como DB o PostgreSQL 4.0
@@ -30,4 +30,4 @@ Banco de Dados: PostgreSQL
 
 JDK:  Java 17
 
-...
+NECESSÁRIO MEXER NO ARQUIVO **APPLICATION.PROPERTIES**
